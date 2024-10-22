@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50">
-
 # Hi there, I'm Reshma! 👋
 
 ### 🌟 Aspiring Data Analyst | Business Analyst | Automation Enthusiast
@@ -27,7 +25,7 @@ I'm passionate about using data to drive insights and streamline processes. With
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=white) 
 
-
+---
 
 ### 🔭 Current Projects
 - **[Project 1 Name]**: Brief description of the project (e.g., Sales analysis using Power BI).
@@ -40,12 +38,8 @@ I'm passionate about using data to drive insights and streamline processes. With
 - **Automation**: Enhancing skills with Power Automate and scripting.
 
 ---
----
 
 ### 📊 GitHub Stats:
 ![Reshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
-
-
-
