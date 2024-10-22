@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50">
+
 # Hi there, I'm Reshma! 👋
 
 ### 🌟 Aspiring Data Analyst | Business Analyst | Automation Enthusiast
@@ -19,8 +21,8 @@ I'm passionate about using data to drive insights and streamline processes. With
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email Address]
+- **LinkedIn**: [https://www.linkedin.com/in/reshmaaselvaraj/]
+- **Email**: [reshmaselavarajj@gmail.com]
 
 ---
 
@@ -28,6 +30,7 @@ I'm passionate about using data to drive insights and streamline processes. With
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=Power%20Automate&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
 
 ---
