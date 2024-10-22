@@ -7,7 +7,7 @@ I'm passionate about using data to drive insights and streamline processes. With
 ---
 
 ### 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/reshmaaselvaraj/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmaaselvaraj/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshmaselvarajj@gmail.com)
 
 ---
