@@ -30,25 +30,25 @@ I'm passionate about using data to drive insights and streamline processes. With
 ### 🔭 Current Projects
 ## Projects
 
-- **[Call Center Dashboards](#)**  
+- **[Call Center Dashboards]([#](https://github.com/ReshmaaSelvaraj/CallCenterDashboard))**  
   Designed dashboards using Power BI to visualize and monitor call center performance metrics.  
 
-- **[Online Retail Business Analysis](#)**  
+- **[Online Retail Business Analysis]([#](https://github.com/ReshmaaSelvaraj/Online-Retail-Business-Analysis-Project))**  
   Conducted comprehensive business analysis for an online retail business using Power BI.  
 
-- **[Customer Retention Dashboard](#)**  
+- **[Customer Retention Dashboard]([#](https://github.com/ReshmaaSelvaraj/Customer-Retention-Dashboard))**  
   Developed a Power BI dashboard to analyze customer retention trends.  
 
-- **[ATM Dashboard](#)**  
+- **[ATM Dashboard]([#](https://github.com/ReshmaaSelvaraj/ATM-Dashboard))**  
   Created a Power BI dashboard to track ATM performance metrics.  
 
-- **[Spotify Advanced SQL Analysis](#)**  
+- **[Spotify Advanced SQL Analysis]([#](https://github.com/ReshmaaSelvaraj/Spotify-Advanced-SQL-Analysis))**  
   Performed advanced SQL analysis on Spotify data using PostgreSQL to derive meaningful insights.  
 
-- **[Mentor User Performance Analysis](#)**  
+- **[Mentor User Performance Analysis]([#](https://github.com/ReshmaaSelvaraj/Mentor-User-Performance-Analysis-))**  
   Analyzed user performance data using SQL and Power BI for effective mentorship tracking.  
 
-- **[Retail Sales Analysis](#)**  
+- **[Retail Sales Analysis]([#](https://github.com/ReshmaaSelvaraj/RetailSalesAnalysis))**  
   Conducted sales analysis using SQL and Excel for better retail decision-making.  
 
 ---
