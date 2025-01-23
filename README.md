@@ -28,9 +28,13 @@ I'm passionate about using data to drive insights and streamline processes. With
 ---
 
 ### 🔭 Current Projects
-- **[Project 1 Name]**: Brief description of the project (e.g., Sales analysis using Power BI).
-- **[Project 2 Name]**: Another brief description (e.g., Automating tasks using Power Automate).
-
+[Call Center Dashboards]: Designed dashboards using Power BI to visualize and monitor call center performance metrics. Link
+[Online Retail Business Analysis]: Conducted comprehensive business analysis for an online retail business using Power BI. Link
+[Customer Retention Dashboard]: Developed a Power BI dashboard to analyze customer retention trends. Link
+[ATM Dashboard]: Created a Power BI dashboard to track ATM performance metrics. Link
+[Spotify Advanced SQL Analysis]: Performed advanced SQL analysis on Spotify data using PostgreSQL to derive meaningful insights. Link
+[Mentor User Performance Analysis]: Analyzed user performance data using SQL and Power BI for effective mentorship tracking. Link
+[Retail Sales Analysis]: Conducted sales analysis using SQL and Excel for better retail decision-making. Link
 ---
 
 ### 🌱 I’m currently learning:
