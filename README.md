@@ -26,9 +26,7 @@ I'm passionate about using data to drive insights and streamline processes. With
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=white) 
 
 ---
-### 🔭 Current Projects
-
-## Projects
+### 🔭 Projects
 
 - **[Call Center Dashboards](https://github.com/ReshmaaSelvaraj/CallCenterDashboard)**  
   Designed dashboards using Power BI to visualize and monitor call center performance metrics.  
