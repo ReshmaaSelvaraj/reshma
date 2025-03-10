@@ -2,7 +2,7 @@
 
 **Business Analyst at Chain-Sys Corporation | Automation Enthusiast**
 
-- Dynamic Business Analyst with expertise in Master Data Management (MDM), SQL, and process automation. Skilled in leveraging tools like Power BI and Power Automate to optimize workflows and deliver data-driven insights. Passionate about improving business operations and solving complex challenges in dynamic industries.
+Dynamic Business Analyst with expertise in Master Data Management (MDM), SQL, and process automation. Skilled in leveraging tools like Power BI and Power Automate to optimize workflows and deliver data-driven insights. Passionate about improving business operations and solving complex challenges in dynamic industries.
 
 ---
 
@@ -64,6 +64,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![Reshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Reshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReshmaaSelvaraj&show_icons=true&theme=radical)
 
 ---
