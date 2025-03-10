@@ -52,7 +52,7 @@ Dynamic Business Analyst with expertise in Master Data Management (MDM), SQL, an
 - **[Retail Sales Analysis](https://github.com/ReshmaaSelvaraj/RetailSalesAnalysis)**  
   Conducted sales analysis using SQL and Excel for better retail decision-making.  
 
-- **[HR Analytics Dashboard](https://github.com/ReshmaaSelvaraj/HR-Analytics-Dashboard)**  
+- **[HR Analytics Dashboard](https://github.com/ReshmaaSelvaraj/HR-Analytics-Dashboard-PowerBI)**  
   Built a Power BI dashboard to analyze key HR metrics, including employee performance and retention trends.  
     
 ---
