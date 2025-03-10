@@ -1,17 +1,19 @@
 # Hi there, I'm Reshma! 👋
 
-### 🌟 Business Analyst at Chain-Sys Corporation | Automation Enthusiast
+**Business Analyst at Chain-Sys Corporation | Automation Enthusiast**
 
--Designed Business Analyst with expertise in Master Data Management (MDM), SQL, and process automation. Skilled in leveraging tools like Power BI and Power Automate to optimize workflows and deliver data-driven insights. Passionate about improving business operations and solving complex challenges in dynamic industries.
+- Dynamic Business Analyst with expertise in Master Data Management (MDM), SQL, and process automation. Skilled in leveraging tools like Power BI and Power Automate to optimize workflows and deliver data-driven insights. Passionate about improving business operations and solving complex challenges in dynamic industries.
+
 ---
 
 ### 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmaaselvaraj/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshmaselvarajj@gmail.com)
-[![Medium](https://img.shields.io/badge/medium-%23D14836.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@reshmaselvaraj5)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@reshmaselvaraj5)
 
 ---
-### 💻 TechStack
+
+### 🖥️ Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -26,7 +28,8 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=white) 
 
 ---
-### 🔭 Projects
+
+### 🌍 Projects:
 
 - **[Call Center Dashboards](https://github.com/ReshmaaSelvaraj/CallCenterDashboard)**  
   Designed dashboards using Power BI to visualize and monitor call center performance metrics.  
@@ -47,13 +50,17 @@
   Analyzed user performance data using SQL and Power BI for effective mentorship tracking.  
 
 - **[Retail Sales Analysis](https://github.com/ReshmaaSelvaraj/RetailSalesAnalysis)**  
-  Conducted sales analysis using SQL and Excel for better retail decision-making.
+  Conducted sales analysis using SQL and Excel for better retail decision-making.  
+
+- **[HR Analytics Dashboard](https://github.com/ReshmaaSelvaraj/HR-Analytics-Dashboard)**  
+  Built a Power BI dashboard to analyze key HR metrics, including employee performance and retention trends.  
     
 ---
 
 ### 🌱 I’m currently learning:
-- **Data Analytics**: Python, Pandas and Numphy.
+- **Data Analytics**: Python, Pandas, and NumPy.
 - **Automation**: Enhancing skills with Power Automate and scripting.
+
 ---
 
 ### 📊 GitHub Stats:
