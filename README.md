@@ -1,14 +1,14 @@
 # Hi there, I'm Reshma! 👋
 
-### 🌟 Aspiring Data Analyst | Business Analyst | Automation Enthusiast
+### 🌟 Business Analyst at Chain-Sys Corporation | Automation Enthusiast
 
-I'm passionate about using data to drive insights and streamline processes. With a background in Business Analysis, I am transitioning into data analytics, focusing on SQL, Python, and Power BI.
-
+Business Analyst with expertise in Master Data Management (MDM), SQL, and process automation. Skilled in leveraging tools like Power BI and Power Automate to optimize workflows and deliver data-driven insights. Passionate about improving business operations and solving complex challenges in dynamic industries.
 ---
 
 ### 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmaaselvaraj/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshmaselvarajj@gmail.com)
+[![Medium](https://img.shields.io/badge/medium-%23D14836.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@reshmaselvaraj5)
 
 ---
 ### 💻 TechStack
@@ -47,15 +47,13 @@ I'm passionate about using data to drive insights and streamline processes. With
   Analyzed user performance data using SQL and Power BI for effective mentorship tracking.  
 
 - **[Retail Sales Analysis](https://github.com/ReshmaaSelvaraj/RetailSalesAnalysis)**  
-  Conducted sales analysis using SQL and Excel for better retail decision-making.  
-
-
+  Conducted sales analysis using SQL and Excel for better retail decision-making.
+    
 ---
 
 ### 🌱 I’m currently learning:
 - **Data Analytics**: Python, Pandas and Numphy.
 - **Automation**: Enhancing skills with Power Automate and scripting.
-
 ---
 
 ### 📊 GitHub Stats:
