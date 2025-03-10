@@ -2,7 +2,7 @@
 
 ### 🌟 Business Analyst at Chain-Sys Corporation | Automation Enthusiast
 
-Business Analyst with expertise in Master Data Management (MDM), SQL, and process automation. Skilled in leveraging tools like Power BI and Power Automate to optimize workflows and deliver data-driven insights. Passionate about improving business operations and solving complex challenges in dynamic industries.
+-Business Analyst with expertise in Master Data Management (MDM), SQL, and process automation. Skilled in leveraging tools like Power BI and Power Automate to optimize workflows and deliver data-driven insights. Passionate about improving business operations and solving complex challenges in dynamic industries.
 ---
 
 ### 🔗 Socials:
